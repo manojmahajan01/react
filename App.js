@@ -8,7 +8,7 @@ const perent = React.createElement(
     React.createElement(
         "div",
         {id : "child"},
-        [React.createElement("h1",{},"This is React "),
+        [React.createElement("h1",{},"This is React     "),
          React.createElement("p",{},"This is paragraph")
         ] 
         )
