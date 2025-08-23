@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is React by Manoj Mahajan",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manojmahajan01/React.git"
+  },
+  "author": "Manoj Mahajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manojmahajan01/React/issues"
+  },
+  "homepage": "https://github.com/manojmahajan01/React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
