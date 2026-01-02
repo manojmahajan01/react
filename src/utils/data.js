@@ -1,5 +1,5 @@
 const resList = [
-                  {
+                {
                     "info": {
                       "id": "10576",
                       "name": "Pizza Hut",
